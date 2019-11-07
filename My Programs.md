@@ -27,7 +27,7 @@ int main()
 ```
 ____
 
-#2.PROGRAM OF SWAP TWO NUMBERS WITHOUT USING THIRD VAULE
+ ## 2.PROGRAM OF SWAP TWO NUMBERS WITHOUT USING THIRD VAULE
 ```C
 #include<stdio.h>  
  int main()    
