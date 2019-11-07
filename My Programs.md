@@ -46,7 +46,7 @@ return 0;
 
 ___
 
- # 3.To print our name using puts
+ ## 3.To print our name using puts
  
  ```C
 #include <stdio.h>
