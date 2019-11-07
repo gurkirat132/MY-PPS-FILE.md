@@ -45,9 +45,10 @@ return 0;
 
 
 ___
-```C
-_____
+
  # 3.To print our name using puts
+ 
+ ```C
 #include <stdio.h>
 
 int main(){
