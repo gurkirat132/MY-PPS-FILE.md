@@ -25,7 +25,7 @@ int main()
   return 0;
 }
 
-![](https://imgur.com/1AgoH3B)
+![](//imgur.com/1AgoH3B)
 ```
 ____
 
