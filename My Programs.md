@@ -25,6 +25,7 @@ int main()
   return 0;
 }
 ```
+![](https://imgur.com/1AgoH3B)
 ____
 
  ## 2.PROGRAM OF SWAP TWO NUMBERS WITHOUT USING THIRD VAULE
